@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Software Engineer | Node.js, learning Golang and c# | Vue.js & Angular | CI/CD | Cloud | Docker & Kubernetes
+
 <!--
 **edvaldo3v/edvaldo3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
